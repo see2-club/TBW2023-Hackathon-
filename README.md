@@ -3,7 +3,7 @@ TBW2023 - Hackathon
 
 
 <p align="center">
-  <img src="https://github.com/see2-club/TBW2023-Hackathon-REM/assets/16307922/047082df-2e13-47e8-9026-daa5121275de" width="100" height="100" alt="DECAYSxTBW23" />
+  <img src="https://github.com/see2-club/TBW2023-Hackathon-REM/assets/16307922/047082df-2e13-47e8-9026-daa5121275de" width="200" height="200" alt="DECAYSxTBW23" />
 
 </p>
 <h1 align="center">REM x TBW2023</h1>
